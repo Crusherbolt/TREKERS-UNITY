@@ -1,5 +1,6 @@
-Here's the updated README with the additional installation commands for npm, thirdweb, React, and development server setup:
+
 #### THIS IS WEBGL PART OF THE TREKERS.
+
 # 🎮 TREKER: Metaverse Game
 *Revolutionary Unity WebGL metaverse with blockchain-powered virtual real estate*
 
